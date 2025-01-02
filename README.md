@@ -6,8 +6,8 @@
 - 💡 Passionate about solving complex problems and building user-centric applications  
 - 🔭 I’m currently learning advanced backend systems and cloud deployment strategies  
 - 📫 **Reach me**:  
-  - [LinkedIn](https://www.linkedin.com/in/jainul-patel)
-  - [GitHub](https://github.com/patel-Jainul)  
+  - [LinkedIn](https://www.linkedin.com/in/patel-Jainul)
+  - [GitHub](https://github.com/patelJainul)  
 
 ---
 
@@ -77,6 +77,6 @@
 ---
 
 ## 🌐 Connect With Me  
-- [GitHub](https://github.com/patel-Jainul)  
-- [LinkedIn](https://www.linkedin.com/in/jainul-patel)  
+- [GitHub](https://github.com/patelJainul)  
+- [LinkedIn](https://www.linkedin.com/in/patelJainul)  
 
