@@ -1,24 +1,48 @@
-# 👋 Hi, I'm Jainul Abedin Patel
+# Hi, I'm Jainul Patel! 👋
 
-## 👨‍💻 About Me
-- 🎓 **Final Year M.Sc. (C.A.) Student** at Veer Narmad South Gujarat University (VNSGU)  
-- 💼 **Freelance MERN Stack Developer**  
-- 💡 Passionate about solving complex problems and building user-centric applications  
-- 🔭 I’m currently learning advanced backend systems and cloud deployment strategies  
-- 📫 **Reach me**:  
-  - [LinkedIn](https://www.linkedin.com/in/patel-Jainul)
-  - [GitHub](https://github.com/patelJainul)  
+🚀 **Full-Stack MERN Developer | Freelancer | Open Source Contributor | Tech Enthusiast**
 
 ---
 
-## 🚀 Tech Stack & Tools
+## 👨‍💻 About Me
 
-| Frontend       | Backend            | Databases        | Deployment  | Other Tools |
-|----------------|--------------------|------------------|-------------|-------------|
-| React.js       | Node.js (Express) | MongoDB          | AWS         | Git         |
-| Next.js        | GraphQL           | MySQL            | Vercel      | REST APIs   |
-| Tailwind CSS   | Socket.IO         |                  |             | Zustand     |
-| Material UI    | TypeScript        |                  |             | React Query |
+- 🔭 Currently working as a **Freelance MERN Stack Developer**
+- 🌱 Passionate about building scalable web and mobile applications
+- 💡 Skilled in **ReactJS**, **NextJS**, **NodeJS (Express)**, **GraphQL**, **Socket.IO**, **MongoDB**, and **MySQL**
+- 📖 Final-year Master's student pursuing **M.Sc (Computer Applications)** with a current **8.9 CGPA**
+- 🌟 Experienced in **AWS Deployment**, **React Native**, and **Tailwind CSS**
+
+---
+
+## 🚀 Tech Stack and Tools
+
+| **Category**        | **Tools & Technologies**                                                                                           |
+|---------------------|-------------------------------------------------------------------------------------------------------------------|
+| **Frontend**        | ReactJS, Next.js, React Native, Tailwind CSS, Material UI, Vite, Zustand, React Query                              |
+| **Backend**         | Node.js (Express.js), GraphQL (Subscriptions), Socket.IO                                                          |
+| **Databases**       | MongoDB, MySQL, SQL Optimization                                                                                  |
+| **DevOps & Cloud**  | AWS (EC2, S3), Cron Jobs, Task Scheduling                                                                         |
+| **Version Control** | Git, GitHub                                                                                                       |
+| **Other Tools**     | VS Code, Postman, Figma                                                                                           |
+
+---
+
+## 🏆 Projects & Achievements
+
+### **1. Loan Management System (Rules Engine)**  
+- Optimized backend calculations from **10 minutes to 1 minute** using efficient SQL queries and database design.  
+
+### **2. E-Commerce Auction System**  
+- Built a live bidding platform with **GraphQL Subscriptions** and automated workflows using cron jobs.  
+
+### **3. Email Marketing Service**  
+- Developed a **custom email scheduler and sender** with React Email Editor.  
+
+### **4. Stock Market Trading App**  
+- Created a **React Query + Zustand**-based interface for analyzing option trading data.  
+
+### **5. Education App (Tuttor Edutech)**  
+- Delivered scalable and reusable components using **ReactJS** and **React Native**.
 
 ---
 
@@ -30,15 +54,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=patelJainul&theme=radical)](https://git.io/streak-stats)
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patelJainul&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ## 🏅 GitHub Trophies
-
-<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=patelJainul&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -46,37 +66,14 @@
 
 ---
 
-## 🛠️ Projects
+## 🌍 Let's Connect
 
-### Loan Management System (Rules Engine)  
-**Tech Stack**: React.js, Node.js (Express), MySQL  
-- Optimized API response time from 10 minutes to 1 minute  
-- Designed database schema and implemented complex SQL queries  
-
-### E-commerce Auction System  
-**Tech Stack**: Node.js (TypeScript), MongoDB, GraphQL  
-- Developed backend with GraphQL subscriptions for live bidding  
-- Managed cron jobs for bid closure, bot bidding, and product relisting  
-
-### Email Marketing Service  
-**Tech Stack**: React.js, Material UI, Node.js  
-- Built a custom email editor with scheduling capabilities  
-- Created an intuitive frontend for uploading CSV/Excel files  
-
-### Stock Market Trading Web App  
-**Tech Stack**: React.js, Vite, Zustand, React Query  
-- Developed a frontend to analyze historical options trading data  
+| Platform        | Link                                                                 |
+|-----------------|----------------------------------------------------------------------|
+| **LinkedIn**    | [linkedin.com/in/patelJainul](https://www.linkedin.com/in/patel-Jainul) |
+| **GitHub**      | [github.com/patelJainul](https://github.com/patelJainul)             |
+| **Email**       | [jainulpatel@gmail.com](mailto:jainul.h.patel@gmail.com)               |
 
 ---
 
-## 🏆 Achievements  
-- Increased backend efficiency by 90% in Loan Management System  
-- Built real-time GraphQL subscriptions for live bidding systems  
-- Secured 8.9 CGPA in first-year M.Sc. (C.A.)  
-
----
-
-## 🌐 Connect With Me  
-- [GitHub](https://github.com/patelJainul)  
-- [LinkedIn](https://www.linkedin.com/in/patelJainul)  
-
+## 🚀 Let's Build Something Amazing Together!
