@@ -73,7 +73,7 @@
 |-----------------|----------------------------------------------------------------------|
 | **LinkedIn**    | [linkedin.com/in/patelJainul](https://www.linkedin.com/in/patel-Jainul) |
 | **GitHub**      | [github.com/patelJainul](https://github.com/patelJainul)             |
-| **Email**       | [jainulpatel@gmail.com](mailto:jainul.h.patel@gmail.com)               |
+| **Email**       | [jainul.h.patel@gmail.com](mailto:jainul.h.patel@gmail.com)               |
 
 ---
 
