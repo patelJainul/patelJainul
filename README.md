@@ -1,6 +1,24 @@
 # Hi, I'm Jainul Patel! 👋
 
-🚀 **Full-Stack MERN Developer | Freelancer | Open Source Contributor | Tech Enthusiast**
+<h1>
+  🚀 <span id="title"></span>
+</h1>
+
+<script>
+  const titles = [
+    "Full-Stack MERN Developer",
+    "Freelancer",
+    "Open Source Contributor",
+    "Tech Enthusiast"
+  ];
+
+  let index = 0;
+
+  setInterval(() => {
+    document.getElementById("title").textContent = titles[index];
+    index = (index + 1) % titles.length;
+  }, 2000); // Change every 2 seconds
+</script>
 
 ---
 
