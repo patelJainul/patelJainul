@@ -1,24 +1,6 @@
 # Hi, I'm Jainul Patel! 👋
 
-<h1>
-  🚀 <span id="title"></span>
-</h1>
-
-<script>
-  const titles = [
-    "Full-Stack MERN Developer",
-    "Freelancer",
-    "Open Source Contributor",
-    "Tech Enthusiast"
-  ];
-
-  let index = 0;
-
-  setInterval(() => {
-    document.getElementById("title").textContent = titles[index];
-    index = (index + 1) % titles.length;
-  }, 2000); // Change every 2 seconds
-</script>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Freelancer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
