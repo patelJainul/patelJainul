@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Jainul Patel! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+MERN+Developer;Freelancer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
