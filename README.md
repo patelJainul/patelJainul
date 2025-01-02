@@ -7,7 +7,7 @@
 - 🔭 I’m currently learning advanced backend systems and cloud deployment strategies  
 - 📫 **Reach me**:  
   - [LinkedIn](https://www.linkedin.com/in/jainul-patel)
-  - [GitHub](https://github.com/patelJainul)  
+  - [GitHub](https://github.com/patel-Jainul)  
 
 ---
 
@@ -77,6 +77,6 @@
 ---
 
 ## 🌐 Connect With Me  
-- [GitHub](https://github.com/patelJainul)  
+- [GitHub](https://github.com/patel-Jainul)  
 - [LinkedIn](https://www.linkedin.com/in/jainul-patel)  
 
