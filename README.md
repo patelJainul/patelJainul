@@ -55,7 +55,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=patelJainul&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=patelJainul&theme=radical&exclude_days=Sun)](https://git.io/streak-stats)
 
 ---
 
