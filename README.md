@@ -47,14 +47,6 @@
 - Integrated a **custom rich-text email editor** with preview and CSV/Excel bulk contact upload.  
 - Automated campaign workflows, reducing manual email operations by **60%** across 3 departments.
 
-### **4. Stock Market Trading App**  
-- Built an options analysis tool using **React Query** and **Zustand**, enabling real-time stock and options tracking.  
-- Focused on performance and state management for interactive financial data visualization.
-
-### **5. Education App (Tuttor Edutech)**  
-- Delivered scalable, reusable UI components in **ReactJS** and **React Native** for student-teacher interaction.  
-- Integrated mobile-first features and optimized cross-platform performance.
-
 ---
 
 ## 📊 GitHub Stats
