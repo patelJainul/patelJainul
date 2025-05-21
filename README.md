@@ -7,43 +7,53 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Freelance Full Stack Developer**
-- 🌱 Passionate about building scalable web and mobile applications
-- 💡 Skilled in **ReactJS**, **NextJS**, **NodeJS (Express)**, **GraphQL**, **Socket.IO**, **MongoDB**, and **MySQL**
-- 📖 Final-year Master's student pursuing **M.Sc (Computer Applications)** with a current **8.9 CGPA**
-- 🌟 Experienced in **AWS Deployment**, **React Native**, and **Tailwind CSS**
+- 💻 Software Developer with hands-on experience in building full-stack applications using **.NET Core (C#)** and the **MERN stack (MongoDB, Express.js, React.js, Node.js)**
+- 🛠️ Proficient in developing scalable **RESTful APIs**, responsive **user interfaces**, and implementing **MVC architecture**
+- 📐 Strong foundation in **object-oriented programming**, version control with **Git**, and writing clean, testable code
+- ⚙️ Experienced in leading **backend systems** for real-time applications using **Socket.IO**
+- 🎓 Completed **M.Sc (Computer Applications)** with a **8.91 CGPA**
+- 🌍 Passionate about building robust, user-centric solutions and continuously learning through real-world project work
 
 ---
 
 ## 🚀 Tech Stack and Tools
 
 | **Category**        | **Tools & Technologies**                                                                                           |
-|---------------------|-------------------------------------------------------------------------------------------------------------------|
-| **Frontend**        | ReactJS, Next.js, React Native, Tailwind CSS, Material UI, Vite, Zustand, React Query                              |
-| **Backend**         | Node.js (Express.js), GraphQL (Subscriptions), Socket.IO                                                          |
-| **Databases**       | MongoDB, MySQL, SQL Optimization                                                                                  |
-| **DevOps & Cloud**  | AWS (EC2, S3), Cron Jobs, Task Scheduling                                                                         |
-| **Version Control** | Git, GitHub                                                                                                       |
-| **Other Tools**     | VS Code, Postman, Figma                                                                                           |
+|---------------------|--------------------------------------------------------------------------------------------------------------------|
+| **Languages**        | JavaScript, TypeScript, C#                                                                                        |
+| **Frontend**         | React.js, Next.js, React Native, Tailwind CSS, Zustand, Redux                                                    |
+| **Backend**          | Node.js, Express.js, .NET Core, C#, Web API, GraphQL, Microservices                                              |
+| **Databases**        | MongoDB, PostgreSQL, SQL Server                                                                                   |
+| **DevOps & Cloud**   | AWS (EC2, S3), Cron Jobs, Task Scheduling                                                                         |
+| **Version Control**  | Git, GitHub                                                                                                       |
+| **Tools & IDEs**     | VS Code, Visual Studio, Postman, Jira, Android Studio, Xcode                                                     |
 
 ---
 
-## 🏆 Projects & Achievements
+## 🏆 Projects
 
-### **1. Loan Management System (Rules Engine)**  
-- Optimized backend calculations from **10 minutes to 1 minute** using efficient SQL queries and database design.  
+### **1. Auction System (E-Commerce)**  
+- Built a real-time bidding platform using **Next.js**, **Node.js**, **GraphQL Subscriptions**, and **MongoDB**, supporting over **1,000 concurrent bids/day**.  
+- Implemented **cron jobs** to automate auction start/end times, enhancing reliability and reducing manual intervention.  
+- Designed a **fault-tolerant backend** with optimized MongoDB schema and API routes, achieving **99.9% uptime**.
 
-### **2. E-Commerce Auction System**  
-- Built a live bidding platform with **GraphQL Subscriptions** and automated workflows using cron jobs.  
+### **2. Skincare Consultation Platform**  
+- Developed a real-time platform with **React.js**, **Vite**, **Node.js**, and **MongoDB** used by 100+ beauticians and coaches.  
+- Integrated **SimpleBook**, **JotForm**, and **HubSpot APIs** for automated booking, form handling, and CRM sync.  
+- Enabled **live multi-user collaboration** using **Socket.IO**, ensuring zero data loss during treatment workflows.
 
 ### **3. Email Marketing Service**  
-- Developed a **custom email scheduler and sender** with React Email Editor.  
+- Created a scalable email system using **React.js**, **Node.js**, **TypeScript**, and **MongoDB**, handling **5,000+ scheduled emails daily**.  
+- Integrated a **custom rich-text email editor** with preview and CSV/Excel bulk contact upload.  
+- Automated campaign workflows, reducing manual email operations by **60%** across 3 departments.
 
 ### **4. Stock Market Trading App**  
-- Created a **React Query + Zustand**-based interface for analyzing option trading data.  
+- Built an options analysis tool using **React Query** and **Zustand**, enabling real-time stock and options tracking.  
+- Focused on performance and state management for interactive financial data visualization.
 
 ### **5. Education App (Tuttor Edutech)**  
-- Delivered scalable and reusable components using **ReactJS** and **React Native**.
+- Delivered scalable, reusable UI components in **ReactJS** and **React Native** for student-teacher interaction.  
+- Integrated mobile-first features and optimized cross-platform performance.
 
 ---
 
