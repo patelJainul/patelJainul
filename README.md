@@ -30,7 +30,7 @@
 
 ---
 
-## 🏆 Projects
+## 🛠️ Projects
 
 ### **1. Auction System (E-Commerce)**  
 - Built a real-time bidding platform using **Next.js**, **Node.js**, **GraphQL Subscriptions**, and **MongoDB**, supporting over **1,000 concurrent bids/day**.  
