@@ -53,7 +53,7 @@
 
 <div align="center">
 
-![Jainul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patelJainul&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=patelJainul&theme=monokai&short_numbers=true)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=radical)
 
