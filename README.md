@@ -1,86 +1,154 @@
 <div align="center">
 
-# Hi, I'm Jainul Patel! 👋
+# Hi 👋, I'm Jainul Patel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Freelancer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+### Full Stack Developer • MERN Stack • .NET Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;.NET+Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" />
+
+<p align="center">
+  <a href="https://github.com/patelJainul">
+    <img src="https://img.shields.io/github/followers/patelJainul?label=Followers&style=for-the-badge&color=58A6FF" />
+  </a>
+  
+  <a href="https://github.com/patelJainul?tab=repositories">
+    <img src="https://img.shields.io/github/stars/patelJainul?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F75C7E" />
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=patelJainul&style=for-the-badge&color=blue" />
+</p>
+
 </div>
 
-## 👨‍💻 About Me
+---
 
-- 💻 Software Developer with hands-on experience in building full-stack applications using **.NET Core (C#)** and the **MERN stack (MongoDB, Express.js, React.js, Node.js)**
-- 🛠️ Proficient in developing scalable **RESTful APIs**, responsive **user interfaces**, and implementing **MVC architecture**
-- 📐 Strong foundation in **object-oriented programming**, version control with **Git**, and writing clean, testable code
-- ⚙️ Experienced in leading **backend systems** for real-time applications using **Socket.IO**
-- 🎓 Completed **M.Sc (Computer Applications)** with a **8.91 CGPA**
-- 🌍 Passionate about building robust, user-centric solutions and continuously learning through real-world project work
+# 💫 About Me
+
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 💻 Full Stack Developer specializing in **MERN** and **.NET Core**
+- 🚀 Building scalable backend systems and modern frontend apps
+- ⚡ Experienced with **REST APIs**, **GraphQL**, **Socket.IO**, and **Microservices**
+- 🎯 Strong focus on performance, clean architecture, and developer experience
+- 🧠 Passionate about learning scalable system design
+- 🎓 M.Sc (Computer Applications) — **8.91 CGPA**
+- 🌱 Currently exploring advanced **.NET**, **Cloud**, and **System Design**
 
 ---
 
-## 🚀 Tech Stack and Tools
-
-| **Category**        | **Tools & Technologies**                                                                                           |
-|---------------------|--------------------------------------------------------------------------------------------------------------------|
-| **Languages**        | JavaScript, TypeScript, C#                                                                                        |
-| **Frontend**         | React.js, Next.js, React Native, Tailwind CSS, Zustand, Redux                                                    |
-| **Backend**          | Node.js, Express.js, .NET Core, C#, Web API, GraphQL, Microservices                                              |
-| **Databases**        | MongoDB, PostgreSQL, SQL Server                                                                                   |
-| **DevOps & Cloud**   | AWS (EC2, S3), Cron Jobs, Task Scheduling                                                                         |
-| **Version Control**  | Git, GitHub                                                                                                       |
-| **Tools & IDEs**     | VS Code, Visual Studio, Postman, Jira, Android Studio, Xcode                                                     |
-
----
-
-## 🛠️ Projects
-
-### **1. Auction System (E-Commerce)**  
-- Built a real-time bidding platform using **Next.js**, **Node.js**, **GraphQL Subscriptions**, and **MongoDB**, supporting over **1,000 concurrent bids/day**.  
-- Implemented **cron jobs** to automate auction start/end times, enhancing reliability and reducing manual intervention.  
-- Designed a **fault-tolerant backend** with optimized MongoDB schema and API routes, achieving **99.9% uptime**.
-
-### **2. Skincare Consultation Platform**  
-- Developed a real-time platform with **React.js**, **Vite**, **Node.js**, and **MongoDB** used by 100+ beauticians and coaches.  
-- Integrated **SimpleBook**, **JotForm**, and **HubSpot APIs** for automated booking, form handling, and CRM sync.  
-- Enabled **live multi-user collaboration** using **Socket.IO**, ensuring zero data loss during treatment workflows.
-
-### **3. Email Marketing Service**  
-- Created a scalable email system using **React.js**, **Node.js**, **TypeScript**, and **MongoDB**, handling **5,000+ scheduled emails daily**.  
-- Integrated a **custom rich-text email editor** with preview and CSV/Excel bulk contact upload.  
-- Automated campaign workflows, reducing manual email operations by **60%** across 3 departments.
-
----
-
-## 📊 GitHub Stats
+# 🚀 Tech Stack
 
 <div align="center">
 
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,cs" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+
+### Tools & DevOps
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,aws,docker" />
+
+</div>
+
+---
+
+# 📌 Featured Projects
+
+## 🛒 Auction System (E-Commerce)
+
+🚀 Real-time bidding platform built using **Next.js**, **Node.js**, **GraphQL**, and **MongoDB**
+
+✨ Features:
+- Real-time bidding system
+- GraphQL subscriptions
+- Automated auction scheduling using cron jobs
+- Optimized backend architecture
+- 99.9% uptime
+
+---
+
+## 💄 Skincare Consultation Platform
+
+🚀 Real-time consultation and collaboration platform
+
+✨ Features:
+- Live multi-user workflows using Socket.IO
+- CRM & booking integrations
+- Real-time synchronization
+- Zero data loss architecture
+
+---
+
+## 📧 Email Marketing Service
+
+🚀 Scalable campaign management platform
+
+✨ Features:
+- 5,000+ scheduled emails/day
+- Rich-text email editor
+- CSV/Excel bulk upload
+- Campaign automation workflows
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelJainul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=patelJainul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patelJainul&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://streak-stats.demolab.com?user=patelJainul&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=patelJainul&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="70%" src="https://streak-stats.demolab.com?user=patelJainul&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🌍 Let's Connect
+# 🏆 GitHub Trophies
 
-| Platform        | Link                                                                 |
-|-----------------|----------------------------------------------------------------------|
-| **LinkedIn**    | [linkedin.com/in/patelJainul](https://www.linkedin.com/in/patel-Jainul) |
-| **GitHub**      | [github.com/patelJainul](https://github.com/patelJainul)             |
-| **Email**       | [jainul.h.patel@gmail.com](mailto:jainul.h.patel@gmail.com)               |
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=patelJainul&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
 
 ---
 
-## 🚀 Let's Build Something Amazing Together! 
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/patel-Jainul">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/patelJainul">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:jainul.h.patel@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 “Building scalable products with clean architecture and modern technologies.”
+
+</div>
