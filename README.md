@@ -53,14 +53,23 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-![Jainul's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelJainul&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<!-- Stats -->
+<img
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelJainul&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+/>
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<img
+  height="180em"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patelJainul&layout=compact&langs_count=8&theme=tokyonight"
+/>
 
-<!-- GitHub Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=patelJainul&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!-- Streak -->
+<img
+  height="180em"
+  src="https://streak-stats.demolab.com?user=patelJainul&theme=tokyonight"
+/>
 
 ---
 
