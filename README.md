@@ -53,11 +53,14 @@
 
 <div align="center">
 
-![patelJainul's Stats](https://github-readme-stats.vercel.app/api?username=patelJainul&theme=radical&show_icons=true&hide_border=true&count_private=true)
+<!-- GitHub Stats -->
+![Jainul's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelJainul&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=radical)
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=patelJainul&theme=radical&exclude_days=Sat%2CSun)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=patelJainul&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
