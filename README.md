@@ -1,31 +1,82 @@
 <div align="center">
 
-# Hi 👋, I'm Jainul Patel
+# Jainul Patel
 
-### Full Stack Developer • MERN Stack • .NET Developer
+### Full Stack Developer | MERN Stack | .NET Developer
+
+<p>
+Building scalable web applications with modern technologies and clean architecture.
+</p>
+
+<br/>
 
 <img 
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;.NET+Backend+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" 
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;.NET+Backend+Developer;Building+Scalable+Applications;Always+Learning+New+Things" 
 />
 
-<br/>
-<br/>
-
 <p align="center">
-  <a href="https://github.com/patelJainul">
-    <img 
-      src="https://img.shields.io/github/followers/patelJainul?label=Followers&style=for-the-badge&color=58A6FF" 
-    />
-  </a>
+  <img src="https://img.shields.io/github/followers/patelJainul?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/patelJainul?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=patelJainul&style=for-the-badge" />
+</p>
 
-  <a href="https://github.com/patelJainul?tab=repositories">
-    <img 
-      src="https://img.shields.io/github/stars/patelJainul?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=F75C7E" 
-    />
-  </a>
+</div>
 
+---
+
+## 💫 About Me
+
+<img 
+  align="right" 
+  alt="Coding" 
+  width="250" 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+/>
+
+- Full Stack Developer specializing in **MERN Stack** and **.NET Core**
+- Experienced in building scalable backend systems and modern frontend applications
+- Skilled in **REST APIs**, **GraphQL**, **Socket.IO**, and **Microservices**
+- Strong focus on clean architecture, performance, and maintainable code
+- Passionate about scalable system design and cloud technologies
+- M.Sc (Computer Applications) — **8.91 CGPA**
+
+<br clear="right"/>
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### Languages
+<p>
   <img 
-    src="https://komarev.com/ghpvc/?username=patelJainul&style=for-the-badge&color=0e75b6" 
+    src="https://skillicons.dev/icons?i=js,ts,cs&theme=dark" 
+    height="50"
+  />
+</p>
+
+### Frontend
+<p>
+  <img 
+    src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" 
+    height="50"
+  />
+</p>
+
+### Backend
+<p>
+  <img 
+    src="https://skillicons.dev/icons?i=nodejs,express,dotnet,graphql&theme=dark" 
+    height="50"
+  />
+</p>
+
+### Database & Tools
+<p>
+  <img 
+    src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode,postman,docker,aws&theme=dark" 
+    height="50"
   />
 </p>
 
@@ -33,129 +84,60 @@
 
 ---
 
-# 💫 About Me
+## 📌 Featured Projects
 
-<img 
-  align="right" 
-  alt="Coding" 
-  width="260" 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
+### 🛒 Auction System
 
-- 💻 Full Stack Developer specializing in **MERN Stack** and **.NET Core**
-- 🚀 Building scalable backend systems and modern frontend applications
-- ⚡ Experienced with **REST APIs**, **GraphQL**, **Socket.IO**, and **Microservices**
-- 🎯 Strong focus on **clean architecture**, **performance**, and **developer experience**
-- 🧠 Passionate about building real-world scalable products
-- 🎓 M.Sc (Computer Applications) — **8.91 CGPA**
-- 🌱 Currently learning advanced **System Design**, **Cloud**, and **.NET Architecture**
+Real-time bidding platform built with **Next.js**, **Node.js**, **GraphQL**, and **MongoDB**.
 
-<br clear="right"/>
+#### Highlights
+- Supported **1,000+ concurrent bids/day**
+- Real-time auction updates using subscriptions
+- Automated auction scheduling using cron jobs
+- Optimized backend architecture with **99.9% uptime**
 
 ---
 
-# 🚀 Tech Stack
+### 💄 Skincare Consultation Platform
 
-<div align="center">
+Real-time collaboration platform for beauticians and coaches.
 
-### Languages
-
-<img 
-  src="https://skillicons.dev/icons?i=js,ts,cs&theme=dark" 
-  height="50" 
-/>
-
-<br/>
-<br/>
-
-### Frontend
-
-<img 
-  src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark" 
-  height="50" 
-/>
-
-<br/>
-<br/>
-
-### Backend
-
-<img 
-  src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" 
-  height="50" 
-/>
-
-<br/>
-<br/>
-
-### Database & Tools
-
-<img 
-  src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,vscode,postman,docker,aws&theme=dark" 
-  height="50" 
-/>
-
-</div>
+#### Highlights
+- Live collaboration using **Socket.IO**
+- Integrated booking and CRM systems
+- Scalable synchronization workflows
+- Zero data loss during active sessions
 
 ---
 
-# 📌 Featured Projects
+### 📧 Email Marketing Service
 
-## 🛒 Auction System
+Scalable campaign management and automation platform.
 
-Real-time bidding platform built using **Next.js**, **Node.js**, **GraphQL**, and **MongoDB**.
-
-### Highlights
-- 🚀 Supported **1,000+ concurrent bids/day**
-- ⚡ Real-time auction updates using subscriptions
-- ⏰ Automated auction scheduling using cron jobs
-- 🛡️ Optimized backend architecture with **99.9% uptime**
+#### Highlights
+- Managed **5,000+ scheduled emails/day**
+- Rich-text email editor
+- CSV/Excel bulk upload support
+- Automated campaign workflows
 
 ---
 
-## 💄 Skincare Consultation Platform
-
-Real-time consultation and collaboration platform for beauticians and coaches.
-
-### Highlights
-- 🔄 Real-time collaboration using **Socket.IO**
-- 🔗 Integrated **SimpleBook**, **JotForm**, and **HubSpot APIs**
-- 📈 Scalable live synchronization workflows
-- 🧩 Zero data loss during live sessions
-
----
-
-## 📧 Email Marketing Service
-
-Scalable campaign management and email automation platform.
-
-### Highlights
-- 📬 Managed **5,000+ scheduled emails/day**
-- 📝 Built custom rich-text email editor
-- 📂 CSV/Excel bulk upload support
-- 🤖 Automated campaign workflows
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img 
-  height="155em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelJainul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  height="160em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelJainul&show_icons=true&theme=tokyonight&hide_border=true" 
 />
 
 <img 
-  height="155em" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" 
+  height="160em" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patelJainul&layout=compact&theme=tokyonight&hide_border=true" 
 />
 
-<br/>
-<br/>
-
 <img 
-  width="65%" 
+  width="55%" 
   src="https://streak-stats.demolab.com?user=patelJainul&theme=tokyonight&hide_border=true" 
 />
 
@@ -163,12 +145,12 @@ Scalable campaign management and email automation platform.
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
 <img 
-  width="90%" 
+  width="85%" 
   src="https://github-profile-trophy.vercel.app/?username=patelJainul&theme=tokyonight&no-frame=true&row=1&column=6" 
 />
 
@@ -176,34 +158,13 @@ Scalable campaign management and email automation platform.
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/patel-Jainul">
-  <img 
-    src="https://skillicons.dev/icons?i=linkedin" 
-    height="50" 
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/patelJainul">
-  <img 
-    src="https://skillicons.dev/icons?i=github" 
-    height="50" 
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:jainul.h.patel@gmail.com">
-  <img 
-    src="https://skillicons.dev/icons?i=gmail" 
-    height="50" 
-  />
-</a>
+<a href="https://www.linkedin.com/in/patel-Jainul" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/patelJainul" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:jainul.h.patel@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -211,6 +172,6 @@ Scalable campaign management and email automation platform.
 
 <div align="center">
 
-### 🚀 Building scalable products with clean architecture and modern technologies
+### 🚀 Building scalable products with modern technologies and clean architecture
 
 </div>
